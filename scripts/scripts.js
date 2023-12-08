@@ -53,7 +53,7 @@ function recalculate() {
 - finally, uncomment the following line of JavaScript to have this function run automatically whenever the pseudo-button is clicked: */
 modelButton = document.getElementById("model-button")
 
-
+//
 // INSERT YOUR CODE HERE
 function changeModel(){
 modelButton = document.getElementById("model-button")
